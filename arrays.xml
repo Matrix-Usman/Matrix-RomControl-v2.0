@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*      Created by Roberto Mariani and Anna Berkovitch, 2015-2016
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
+<resources>
+
+    <string-array name="test_list_entries">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Let\'s make twenty</item>
+    </string-array>
+    <string-array name="test_list_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>20</item>
+    </string-array>
+    <array name="gif_animation_drawable">
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a5</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+        <item>@drawable/a8</item>
+        <item>@drawable/a9</item>
+        <item>@drawable/a10</item>
+        <item>@drawable/a11</item>
+        <item>@drawable/a12</item>
+        <item>@drawable/a13</item>
+        <item>@drawable/a14</item>
+        <item>@drawable/a15</item>
+        <item>@drawable/a16</item>
+        <item>@drawable/a17</item>
+        <item>@drawable/a18</item>
+        <item>@drawable/a19</item>
+        <item>@drawable/a20</item>
+        <item>@drawable/a21</item>
+        <item>@drawable/a22</item>
+        <item>@drawable/a23</item>
+        <item>@drawable/a24</item>
+        <item>@drawable/a25</item>
+        <item>@drawable/a26</item>
+        <item>@drawable/a27</item>
+        <item>@drawable/a28</item>
+        <item>@drawable/a29</item>
+        <item>@drawable/a30</item>
+        <item>@drawable/a31</item>
+        <item>@drawable/a32</item>
+        <item>@drawable/a33</item>
+    </array>
+    <string-array name="gif_animation_entries">
+        <item>Abstract</item>
+        <item>A Cube</item>
+        <item>Alien Twerking</item>
+        <item>Bad Kool Aid</item>
+        <item>Bad Skeleton</item>
+        <item>Battle Stance</item>
+        <item>Bic Lighter</item>
+        <item>Bird</item>
+        <item>Boob Shoots</item>
+        <item>Brian Peanut Butter Jely Time</item>
+        <item>Butterfly</item>
+        <item>Butt Shake</item>
+        <item>Cats</item>
+        <item>Chester Cheto</item>
+        <item>Cool A Pe</item>
+        <item>Dancing Elsa</item>
+        <item>Double Meaning</item>
+        <item>Eyeball</item>
+        <item>M M</item>
+        <item>Skeleton Cutting Food</item>
+        <item>Skeleton No Ice Cream</item>
+        <item>Skeleton Wave</item>
+        <item>Skelton Eating Chetos</item>
+        <item>Stitch</item>
+        <item>Stitch Bra Head</item>
+        <item>Stitch Drop</item>
+        <item>Waiting Skeleton</item>
+        <item>Walking Dead Birth</item>
+        <item>Walking Wolf</item>
+        <item>Waving Froven</item>
+    </string-array>
+    <string-array name="gif_animation_entries_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+    </string-array>
+    <string-array name="theme_items">
+        <item>Light theme</item>
+        <item>Dark theme</item>
+    </string-array>
+    <string-array name="backup_restore_items">
+        <item>Backup data</item>
+        <item>Restore data</item>
+    </string-array>
+
+    <string-array name="thumbnail_items">
+        <item>Icon 1</item>
+        <item>Icon 2</item>
+    </string-array>
+    <string-array name="thumbnail_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <array name="thumbnail_drawables">
+        <item>@drawable/icon_6</item>
+        <item>@drawable/icon_5</item>
+    </array>
+
+    <string-array name="custom_bg_type_entries">
+        <item>Image</item>
+        <item>Solid color</item>
+        <item>Gradient</item>
+    </string-array>
+    <string-array name="custom_bg_type_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="gradient_entries">
+        <item>Top to bottom</item>
+        <item>Bottom to top</item>
+        <item>Left to right</item>
+        <item>Right to left</item>
+
+    </string-array>
+    <string-array name="gradient_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+    <string-array name="battery_bar_style_entries">
+        <item>Regular</item>
+        <item>Center-mirrored</item>
+    </string-array>
+    <string-array name="battery_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="battery_bar_thickness_entries">
+        <item>1 dp</item>
+        <item>2 dp</item>
+        <item>3 dp</item>
+        <item>4 dp</item>
+    </string-array>
+    <string-array name="battery_bar_thickness_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="battery_bar_entries">
+        <item>Hide</item>
+        <item>Show</item>
+    </string-array>
+    <string-array name="battery_bar_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="crop_entries">
+        <item>Center crop</item>
+        <item>Center inside</item>
+        <item>Fit XY</item>
+    </string-array>
+    <string-array name="crop_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="data_usage_gravity_entries">
+        <item>On the right</item>
+        <item>Center</item>
+        <item>On the left</item>
+    </string-array>
+    <string-array name="data_usage_gravity_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="data_usage_text_style_entries">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Bold italic</item>
+    </string-array>
+    <string-array name="data_usage_text_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="custom_bg_type_entries2">
+        <item>Image</item>
+    </string-array>
+    <string-array name="custom_bg_type_values2">
+        <item>0</item>
+    </string-array>
+</resources>
